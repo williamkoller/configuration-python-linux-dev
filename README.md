@@ -1,4 +1,4 @@
-# Configuration for Python on Linux or WSL2
+# Development setup for Python language on Linux or WSL2
 
 ```
 sudo ./configuration-python-linux-dev.sh
